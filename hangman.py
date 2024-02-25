@@ -1,8 +1,5 @@
-# MINOR AI
-# Assignment: Hangman
-# Date: 5 nov. 2021
-# Name: Jeanice Koorndijk
 
+# Assignment: Hangman
 
 # random is used to get pick a random word of correct length from lexicon
 import random
