@@ -1,6 +1,6 @@
-# Name: Jeanice Koorndijk
+
 # Minor AI: visualizing_actors
-# 23.11.2021
+
 
 from helpers import simple_get
 from bs4 import BeautifulSoup
