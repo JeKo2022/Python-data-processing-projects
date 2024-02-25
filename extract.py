@@ -1,6 +1,6 @@
-# Name: Jeanice Koorndijk
+
 # Minor AI: transforming
-# 22.11.2021
+
 
 from helpers import simple_get
 from bs4 import BeautifulSoup
