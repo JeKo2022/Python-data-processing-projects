@@ -1,7 +1,6 @@
 # MINOR AI
 # Assignment: Room
-# Date: 12 nov. 2021
-# Name: Jeanice Koorndijk
+
 
 class Room ():
     '''
