@@ -1,6 +1,6 @@
-# Name: Jeanice Koorndijk
+
 # Minor AI: crawler
-# 24.11.2021
+
 
 from helpers import simple_get
 from bs4 import BeautifulSoup
