@@ -1,7 +1,5 @@
 # MINOR AI
 # Assignment: Adventure
-# Date: 12 nov. 2021
-# Name: Jeanice Koorndijk
 
 #  To be able to access the Room class from the adventure.py file, we use import
 from room import Room
